@@ -5,11 +5,12 @@ Global code snippets for Objective-C developer.
 
 ## Usage 
 
-chmod +x ./syncSnippets.sh // 为脚本设置可执行权限
-./syncSnippets.sh // 同步git云端代码块到本地
+chmod +x ./syncSnippets.sh // Set execute permissions for the shell-script
+
+./syncSnippets.sh // Synchronous git code to the local
 
 
 ## Upload
 
-chmod +x ./uploadMySnippets.sh // 为脚本设置可执行权限
-./uploadMySnippets.sh //将本地的代码块s同步到云端
+chmod +x ./uploadMySnippets.sh // Set execute permissions for the shell-script
+./uploadLocalSnippets.sh  //Synchronous local code to git
