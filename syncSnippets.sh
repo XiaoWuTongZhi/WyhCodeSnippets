@@ -34,7 +34,7 @@ function syncXcodesnippetsFromOnlinestorage {
     #3
     downloadCodesnippetsFromGit git@github.com:XiaoWuTongZhi/WyhCodeSnippets.git
     #4
-    cd codesnippets
+    cd WyhCodeSnippets
     #5
     mkDirAbsolutely ~/Library/Developer/Xcode/UserData/CodeSnippets/
     #6

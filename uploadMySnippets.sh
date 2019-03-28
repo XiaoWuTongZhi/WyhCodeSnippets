@@ -27,7 +27,7 @@ function uploadLocalCodeSnippetsAndFileTemplates {
     chmod 775 ~/Library/Developer/Xcode/UserData/CodeSnippets/
     # 新建临时文件夹
     makeDir snippets
-    # 将系统目录下的代码块和自定义类文件模版拷贝到新建的文件夹中
+    # 将系统目录下的代码块拷贝到新建的文件夹中
     cp -rf ~/Library/Developer/Xcode/UserData/CodeSnippets/* ./snippets/
     # 本地强制提交云端
     git add .
