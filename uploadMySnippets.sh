@@ -16,7 +16,7 @@ function deleteTheFolderAbsolutely {
 
 # 打印操作
 function printStep {
-  echo $COLOR_SUCC"### 执行操作【$1】###"$COLOR_END
+echo -e "$COLOR_SUCC #陛下请稍等，正在执行操作【$1】#$COLOR_END"
 }
 
 :<<*
