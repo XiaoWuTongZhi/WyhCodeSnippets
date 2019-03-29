@@ -6,48 +6,42 @@
 	<string>Method_lifecycle</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - life cycle
-- (void)viewWillAppear:(BOOL)animated
-{
+	<string>#pragma mark - Life Cycle
+
+- (void)dealloc {
+    
+}
+
+- (void)viewWillAppear:(BOOL)animated {
     [super viewDidAppear:animated];
 }
 
-- (void)viewDidAppear:(BOOL)animated
-{
+- (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
 }
 
-- (void)viewDidLoad
-{
+- (void)viewDidLoad {
     [super viewDidLoad];
-    self.title = &lt;#value#&gt;;
 }
 
-- (void)viewWillDisappear:(BOOL)animated
-{
+- (void)viewWillDisappear:(BOOL)animated {
     [super viewDidAppear:animated];
     
 }
 
-- (void)viewDidDisappear:(BOOL)animated
-{
+- (void)viewDidDisappear:(BOOL)animated {
     [super viewDidAppear:animated];
     
-}
-
-- (void)dealloc
-{
-    NSLog(@"%s",__func__);
 }
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E935C1C4-D472-4D34-B5AD-86D20EBC61BC</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>生命周期函数组模版</string>
 	<key>IDECodeSnippetTitle</key>

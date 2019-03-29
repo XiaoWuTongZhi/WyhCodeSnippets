@@ -6,14 +6,14 @@
 	<string>Mark_notification</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Notification Method</string>
+	<string>#pragma mark - Notification</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A6D7B6F4-4E4F-486C-A8B8-7E068F5631FB</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>通知方法代码块标识</string>
 	<key>IDECodeSnippetTitle</key>

@@ -6,20 +6,20 @@
 	<string>Protocol</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@class &lt;#Class#&gt;;
-@protocol &lt;#Delegate#&gt;&lt;NSObject&gt;
+	<string>@protocol &lt;#Delegate#&gt;&lt;NSObject&gt;
 
-@required
-- (void)bidInfoCell:(delegate *)bidInfoCell didClickWithCompanyModel:(CompanyModel *)companymodel;
+- (void)test:(&lt;#Class#&gt; *)owner method:(&lt;#Parameter#&gt;)param;
 
 @end</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F856017E-E797-4E46-9B9D-BC6F2E454808</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>协议的声明</string>
 	<key>IDECodeSnippetTitle</key>

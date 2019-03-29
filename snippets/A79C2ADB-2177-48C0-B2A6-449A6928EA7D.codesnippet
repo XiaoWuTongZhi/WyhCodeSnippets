@@ -3,17 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>propAssign</string>
+	<string>Property_assign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceVariables</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#value#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A79C2ADB-2177-48C0-B2A6-449A6928EA7D</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>assign属性</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>prop_assign</string>
 	<key>IDECodeSnippetUserSnippet</key>

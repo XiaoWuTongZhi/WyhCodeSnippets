@@ -6,19 +6,18 @@
 	<string>Method_Observer</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - Observer Method
 
-- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary&lt;NSString *, id&gt; *)change context:(void *)context
-{
+- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary&lt;NSString *, id&gt; *)change context:(void *)context {
     
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0694D07C-5801-4583-95A9-D0212ADFE2F0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>观察方法代码块标识</string>
 	<key>IDECodeSnippetTitle</key>
