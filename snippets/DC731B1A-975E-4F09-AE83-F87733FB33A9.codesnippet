@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Property_assign</string>
+	<string>property_weak</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#value#&gt;;</string>
+	<string>@property (nonatomic, weak) &lt;#type#&gt; *&lt;#value#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A79C2ADB-2177-48C0-B2A6-449A6928EA7D</string>
+	<string>DC731B1A-975E-4F09-AE83-F87733FB33A9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>assign属性</string>
+	<string>weak属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>prop_assign</string>
+	<string>pro_weak</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

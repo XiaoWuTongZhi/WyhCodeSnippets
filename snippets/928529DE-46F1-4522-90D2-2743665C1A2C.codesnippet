@@ -6,7 +6,7 @@
 	<string>Property_strong</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceVariables</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, strong) NSDictionary *&lt;#name#&gt;;

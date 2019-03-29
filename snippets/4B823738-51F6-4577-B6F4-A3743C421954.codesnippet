@@ -6,7 +6,7 @@
 	<string>Property_block</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceVariables</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, copy) &lt;#returnType#&gt; (^&lt;#Block#&gt;)(&lt;#parType#&gt;);</string>
@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>block属性</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>block property</string>
+	<string>pro_block</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -6,7 +6,7 @@
 	<string>Property_copy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceVariables</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, copy) &lt;#type#&gt; *&lt;#value#&gt;;</string>
