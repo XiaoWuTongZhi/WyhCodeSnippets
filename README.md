@@ -13,4 +13,5 @@ chmod +x ./syncSnippets.sh // Set execute permissions for the shell-script
 ## Upload
 
 chmod +x ./uploadMySnippets.sh // Set execute permissions for the shell-script
+
 ./uploadLocalSnippets.sh  //Synchronous local code to git

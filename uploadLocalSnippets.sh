@@ -32,7 +32,7 @@ function uploadLocalCodeSnippetsAndFileTemplates {
     # 本地强制提交云端
     git add .
     printStep "git add ."
-    echo $COLOR_QS"请输入commit log"$COLOR_END
+    echo -e "$COLOR_QS 陛下，请输入commit log $COLOR_END"
     read commitLog
 
     # commit log 提交
